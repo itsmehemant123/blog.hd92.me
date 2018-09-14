@@ -3,14 +3,15 @@
  */
 
 // Colors
-$color-base: #222;
-$color-primary: #5d93ff;
-$color-secondary: #f7a046;
+// $color-base: #222;
+$color-base: #fff;
+$color-primary: #00a8ff;
+$color-secondary: #e84118;
 
-$color-white: lighten($color-base, 100%);
-$color-gray: lighten($color-base, 40%);
-$color-gray-border: lighten($color-base, 77%);
-$color-gray-bg: lighten($color-base, 79%);
+$color-white: darken($color-base, 80%);
+$color-gray: darken($color-base, 40%);
+$color-gray-border: darken($color-base, 67%);
+$color-gray-bg: darken($color-base, 60%);
 
 // Typographic
 $typographic-font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
