@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://blog.hd92.me',
+    title: 'Blog by Hemanth Devarapalli',
+    subtitle: 'Build stuff, see places, eat food',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -17,16 +17,22 @@ module.exports = {
       {
         label: 'Contact me',
         path: '/contact/'
+      },
+      {
+        label: 'Categories',
+        path: '/categories/'
+      },
+      {
+        label: 'Tags',
+        path: '/tags/'
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Hemanth Devarapalli',
+      email: 'hemanth.devarapalli@outlook.com',
+      twitter: 'daemon92',
+      github: 'itsmehemant123',
+      linkedin: 'hemanth-devarapalli'
     }
   },
   plugins: [
