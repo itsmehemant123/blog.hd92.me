@@ -55,5 +55,6 @@ Or, use the form below.
   <input name="name" type="text" class="feedback-input" placeholder="Name" />   
   <input name="email" type="text" class="feedback-input" placeholder="Email" />
   <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+  <div data-netlify-recaptcha></div>
   <input type="submit" value="Send"/>
 </form>
