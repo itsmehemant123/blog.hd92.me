@@ -38,6 +38,11 @@ class Links extends React.Component {
               <i className="icon-linkedin" />
             </a>
           </li>
+          <li className="links__list-item">
+            <a href="/pdf/resume_sidebar.pdf" target="_blank" >
+              <i className="icon-doc-text" />
+            </a>
+          </li>
           {/* <li className="links__list-item">
             <a href={`https://www.vk.com/${links.vk}`} target="_blank" >
               <i className="icon-vkontakte" />
