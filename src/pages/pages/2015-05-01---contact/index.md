@@ -50,7 +50,7 @@ Or, just use the form below.
     [type="submit"]:hover { color: #00a8ff; }
 </style>
 
-<form name="contact" netlify>
+<form name="contact" method="POST" netlify>
   <input name="name" type="text" class="feedback-input" placeholder="Name" />   
   <input name="email" type="text" class="feedback-input" placeholder="Email" />
   <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
