@@ -32,6 +32,11 @@
             @include line-height(1);
             @include margin-bottom(1);
         }
+        &-location {
+            color: $color-gray;
+            @include line-height(1);
+            @include margin-bottom(1);
+        }
     }
     &__copyright {
         color: lighten($color-gray, 18%);

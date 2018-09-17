@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     url: 'https://blog.hd92.me',
     title: 'Blog by Hemanth Devarapalli',
-    subtitle: 'Artificial Intelligence & Natural Language Processing',
+    subtitle: 'NLP, AI and Bots',
+    currentLocation: 'West Lafayette',
     copyright: '© All rights reserved.',
     disqusShortname: 'blog-hd92',
     menu: [
@@ -53,6 +54,7 @@ module.exports = {
                 site_url: url
                 title
                 description: subtitle
+                currentLocation
               }
             }
           }
