@@ -23,9 +23,9 @@ Though I haven't travelled much, that is one thing I'm trying to rectify. I've g
 
 <figure>
     <img src="./maps.png" />
-	<blockquote>
-		<p>500+ places, and counting!</p>
-	</blockquote>
+	<figcaption>
+		500+ places, and counting!
+	</figcaption>
 </figure>
 
 Oh, I'm also learning to draw! At least, try to. I will put up things I've drawn soon.
