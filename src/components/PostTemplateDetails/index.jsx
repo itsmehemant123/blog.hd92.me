@@ -48,7 +48,7 @@ class PostTemplateDetails extends React.Component {
         <div className="post-single">
           <div className="post-single__inner">
             <h1 className="post-single__title">{post.frontmatter.title}</h1>
-            <div className="post-single__postStats"><i className="icon-pencil" /> {wordCount} words -<i className="icon-clock" /> {readTime} minute read</div>
+            <div className="post-single__postStats"><i className="icon-pencil" /> {wordCount} words ·<i className="icon-clock" /> {readTime} minute read</div>
             <div className="post-single__body" dangerouslySetInnerHTML={{ __html: post.html }} />
             <div className="post-single__date">
               <em>Published {moment(post.frontmatter.date).format('D MMM YYYY')}</em>
