@@ -34,4 +34,4 @@ Oh, I'm also learning to draw! At least, try to. I will put up things I've drawn
 
 <hr />
 
-Blog was built using <a href="https://www.gatsbyjs.org/" target="_blank">gatsbyjs</a> and the <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">lumen theme</a>.
+Blog was built using <a href="https://www.gatsbyjs.org/" target="_blank">gatsbyjs</a> and a modified <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">lumen theme</a>.
