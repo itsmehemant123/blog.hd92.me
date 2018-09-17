@@ -2,9 +2,9 @@ module.exports = {
   siteMetadata: {
     url: 'https://blog.hd92.me',
     title: 'Blog by Hemanth Devarapalli',
-    subtitle: 'Build stuff, see places, eat food',
+    subtitle: 'Artificial Intelligence & Natural Language Processing',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'blog-hd92',
     menu: [
       {
         label: 'Articles',
