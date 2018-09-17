@@ -8,6 +8,8 @@ Hello there!
 
 Hemanth here, currently in my final semester pursuing a Masters degree at Purdue University. My thesis is on Forced attention for Image Captioning, and will be defending it soon. I've had professional software developement experience of ~5 years, though I've been programming for longer. 
 
+I also hold an assistantship at Purdue University, with their Center for Career Opportunities Office, as a programmer.
+
 I've also participated in various competitions, with the notable ones being:
 + IBM's The Great Mind Challenge - <span style="text-decoration: underline;">placed 5th in India</span> for building an employee performance management app.
 + Microsoft's Imagine Cup - <span style="text-decoration: underline;">placed 2nd in India</span> for building an app and cloud service for finding blood donors in realtime.

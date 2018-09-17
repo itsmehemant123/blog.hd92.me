@@ -40,7 +40,7 @@ class Links extends React.Component {
           </li>
           <li className="links__list-item">
             <a href="/pdf/resume_sidebar.pdf" target="_blank" >
-              <i className="icon-doc-text" />
+              <i className="icon-file-pdf" />
             </a>
           </li>
           {/* <li className="links__list-item">

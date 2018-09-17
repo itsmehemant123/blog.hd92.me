@@ -18,6 +18,17 @@
         @include margin-top(1);
         @include margin-bottom(0);
     }
+    &__postStats {
+        // color: $color-gray;
+        font-size: $typographic-small-font-size;
+        max-width: $layout-post-single-width;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        font-style: italic;
+        @include margin-top(1);
+        @include margin-bottom(0);
+    }
     &__body {
         & figure {
             @include margin-bottom(1);
