@@ -52,6 +52,10 @@ export const pageQuery = graphql`
           label
           path
         }
+        shortMenu {
+          label
+          path
+        }
         author {
           name
           email

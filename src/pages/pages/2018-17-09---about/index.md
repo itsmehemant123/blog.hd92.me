@@ -19,11 +19,17 @@ You can find my resume [here](/pdf/resume_short_software.pdf).
 
 #### There are a few things I want to do :
 
-Though I haven't travelled much, that is one thing I'm trying to rectify. I've got a huge list of places marked!
-![maps](./maps.png)
+Though I haven't travelled much, that is one thing I'm trying to rectify. I've got a huge, growing list of places marked!
+
+<figure>
+    <img src="./maps.png" />
+	<blockquote>
+		<p>500+ places, and counting!</p>
+	</blockquote>
+</figure>
 
 Oh, I'm also learning to draw! At least, try to. I will put up things I've drawn soon.
 
 <hr />
 
-Blog was built using [gatsbyjs](https://www.gatsbyjs.org/) and the [lumen theme](https://github.com/alxshelepenok/gatsby-starter-lumen).
+Blog was built using <a href="https://www.gatsbyjs.org/" target="_blank">gatsbyjs</a> and the <a href="https://github.com/alxshelepenok/gatsby-starter-lumen" target="_blank">lumen theme</a>.

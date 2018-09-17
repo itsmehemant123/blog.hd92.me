@@ -2,6 +2,7 @@ import React from 'react';
 import get from 'lodash/get';
 import Link from 'gatsby-link';
 import Menu from '../Menu';
+import ShortMenu from '../ShortMenu';
 import Links from '../Links';
 import profilePic from '../../pages/photo.jpg';
 import './style.scss';
@@ -10,7 +11,7 @@ import '../../assets/fonts/fontello-771c82e0/css/fontello.css';
 class Sidebar extends React.Component {
   render() {
     const { location } = this.props;
-    const { author, subtitle, copyright, currentLocation, menu } = this.props.data.site.siteMetadata;
+    const { author, subtitle, copyright, currentLocation, menu, shortMenu } = this.props.data.site.siteMetadata;
     const isHomePage = get(location, 'pathname', '/') === '/';
 
     /* eslint-disable jsx-a11y/img-redundant-alt */
@@ -49,6 +50,7 @@ class Sidebar extends React.Component {
           <div>
             <Menu data={menu} />
             <Links data={author} />
+            <ShortMenu data={shortMenu} />
             <p className="sidebar__copyright">
               {copyright}
             </p>
