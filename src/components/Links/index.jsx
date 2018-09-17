@@ -28,11 +28,11 @@ class Links extends React.Component {
               <i className="icon-github" />
             </a>
           </li>
-          <li className="links__list-item">
+          {/* <li className="links__list-item">
             <a href={`mailto:${links.email}`}>
               <i className="icon-mail" />
             </a>
-          </li>
+          </li> */}
           <li className="links__list-item">
             <a href={`https://www.linkedin.com/in/${links.linkedin}`} target="_blank" >
               <i className="icon-linkedin" />

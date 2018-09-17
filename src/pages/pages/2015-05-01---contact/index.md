@@ -4,28 +4,55 @@ layout: page
 path: "/contact"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+I'm available via mail at *hemanth (dot) devarapalli (at) outlook*, or feel free to ping me on twitter <a href="https://twitter.com/daemon92" target="_blank">@daemon92</a>. 
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+Or, just use the form below.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+<style>
+    .feedback-input {
+        color:white;
+        font-weight:500;
+        font-size: 18px;
+        border-radius: 5px;
+        line-height: 22px;
+        background-color: transparent;
+        border:1px solid #00a8ff;
+        transition: all 0.3s;
+        padding: 13px;
+        margin-bottom: 15px;
+        width:100%;
+        box-sizing: border-box;
+        outline:0;
+    }
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+    .feedback-input:focus { border:2px solid #0073af; }
 
-## Header Level 2
+    textarea {
+        height: 150px;
+        line-height: 150%;
+        resize:vertical;
+    }
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+    [type="submit"] {
+        width: 100%;
+        background:none;
+        border-radius:5px;
+        border:0;
+        cursor:pointer;
+        color:white;
+        font-size:18px;
+        padding-top:10px;
+        padding-bottom:10px;
+        transition: all 0.3s;
+        margin-top:-4px;
+    }
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+    [type="submit"]:hover { color: #00a8ff; }
+</style>
 
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. 
+<form name="contact" netlify>
+  <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+  <input name="email" type="text" class="feedback-input" placeholder="Email" />
+  <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+  <input type="submit" value="Send"/>
+</form>
