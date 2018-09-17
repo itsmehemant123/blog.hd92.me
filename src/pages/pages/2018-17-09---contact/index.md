@@ -6,7 +6,7 @@ path: "/contact"
 
 I'm available via mail at *hemanth (dot) devarapalli (at) outlook*, or feel free to ping me on twitter <a href="https://twitter.com/daemon92" target="_blank">@daemon92</a>. 
 
-Or, just use the form below.
+Or, use the form below.
 
 <style>
     .feedback-input {
