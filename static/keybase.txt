@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hdevarapalli
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.hd92.me
+  * I am hdevarapalli (https://keybase.io/hdevarapalli) on keybase.
+  * I have a public key ASDjejrK3_b-6QYYxH0Wc7EmLcDGop6qiRJzgpWsqLPu3Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e37a3acadff6fee90618c47d1673b1262dc0c6a29eaa8912738295aca8b3eedc0a",
+      "host": "keybase.io",
+      "kid": "0120e37a3acadff6fee90618c47d1673b1262dc0c6a29eaa8912738295aca8b3eedc0a",
+      "uid": "7020ae1bf0758fc3340451c9dc3d1b19",
+      "username": "hdevarapalli"
+    },
+    "merkle_root": {
+      "ctime": 1537231830,
+      "hash": "8a3074be99bb97164004232d02c9c30d41124a070fee20feac519de6f5ad08556a857b1db7988ad27060129dd34c3328c6636016bd2271bc36ccfe061bb41efe",
+      "hash_meta": "e35812a02fbafc814762f801ec7ece013f365f76d739c029562e28fe543cf8c2",
+      "seqno": 3623128
+    },
+    "service": {
+      "entropy": "yR4MUf3aOrEjkvSzhA37dydE",
+      "hostname": "blog.hd92.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1537231850,
+  "expire_in": 504576000,
+  "prev": "d3c32cfd160432f895b4bdec2a3708422993c77689de398dfd067b60369d2de8",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg43o6yt/2/ukGGMR9FnOxJi3AxqKeqokSc4KVrKiz7twKp3BheWxvYWTESpcCIMQg08Ms/RYEMviVtL3sKjcIQimTx3aJ3jmN/QZ7YDadLejEIHkeMsXtgc/B04CPJ5GyNyHdVzstE4BZiSSEVjJVu/hIAgHCo3NpZ8RA4DWjiIdwKxDpVN+q5ecNpXCjQNhy0jD5KXfpbPjpomU4jKgqxgNeizcSyPsHcFQcrmPPuZGWcAdq7VJ27ZF/AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILWvIVj8O4od6t3vgSe4JuTPhxKT/hISNxZkNfODRbv2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hdevarapalli
+
+==================================================================
